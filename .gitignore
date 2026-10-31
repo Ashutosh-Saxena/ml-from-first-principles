@@ -1,0 +1,10 @@
+build/
+bin/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.o
+*.obj
+*.exe
+.DS_Store
